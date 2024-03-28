@@ -1,6 +1,6 @@
 # Crowdfunding-Extract-Load-Transform
 ## Overview
-This repository contains code for an ETL (Extract, Transform, Load) project where we built an ETL pipeline using Python and SQL. We extracted and transformed the data with pandas and numpy, created four CSV files from the original dataset, engineered an ERD and SQL Table Schema, and uploaded the transformed csv file data into a PostgresSQL server database.
+This repository contains code for an ETL (Extract, Transform, Load) project where we built an ETL pipeline using Python and SQL. We extracted and transformed the data with pandas and numpy, created four CSV files from the original dataset, engineered an ERD and SQL Table Schema, and uploaded the transformed csv file data into a PostgresSQL server database. We ran SQL queries to verify our data cleaning and transformation.
 # Prerequisites   
 We used the following dependencies 
 * pandas
